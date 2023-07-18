@@ -1,6 +1,6 @@
 # 🏴‍☠️ Ahoy there, fellow buccaneers! 🏴‍☠️
 
-Welcome aboard the good ship **CommitGPT**, helmed by our four seafarers at [sid.ai](https://www.sid.ai/), [Lotte](https://github.com/lotteellen), [Lukas](https://github.com/ruflair), [Georgijs](https://github.com/gvilums) and [Max](https://github.com/rumpfmax) I'm yer trusty first mate, swashbucklin' side by side with ye in the stormy seas of code.
+I'm yer trusty first mate, swashbucklin' side by side with ye in the stormy seas of code.
 
 Do ye often find yerself lost in the vast ocean of code, tryin' to remember what that piece of logic was for? Fear not! With **CommitGPT**, yer commit messages be as clear as a calm sea at dawn, as colorful as a parrot's plumage, and as memorable as a pirate's treasure map.
 
